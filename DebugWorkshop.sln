@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoopAgain", "LoopAgain\Loop
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shapes", "Shapes\Shapes.vcxproj", "{5EDBD580-A265-4FF8-AB0D-D1FB98182D68}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyPointExactly", "MyPointExactly\MyPointExactly.vcxproj", "{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -39,6 +41,10 @@ Global
 		{5EDBD580-A265-4FF8-AB0D-D1FB98182D68}.Debug|x86.Build.0 = Debug|Win32
 		{5EDBD580-A265-4FF8-AB0D-D1FB98182D68}.Release|x86.ActiveCfg = Release|Win32
 		{5EDBD580-A265-4FF8-AB0D-D1FB98182D68}.Release|x86.Build.0 = Release|Win32
+		{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}.Debug|x86.Build.0 = Debug|Win32
+		{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}.Release|x86.ActiveCfg = Release|Win32
+		{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
