@@ -4,8 +4,7 @@
 int main()
 {
 	part1();
-
-	//part2();	// debug this after the completion of part1
+	part2();
 
 	return 0;
 }
